@@ -58,7 +58,7 @@ main {
 /* Tablet styles */
 @media (min-width: 768px) and (max-width: 991px) {
     .section {
-        width: 48%; /* 100% / 2 - spacing adjustment */
+        width: 40%; /* 100% / 2 - spacing adjustment */
         margin: 10px 1%;
     }
     #section3 {
