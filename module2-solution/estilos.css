@@ -48,10 +48,10 @@ main {
 }
 
 /* Desktop styles */
-@media (min-width: 892px) {
+@media (min-width: 992px) {
     .section {
         float: left;
-        width: 51.33%; /* 100% / 3 - spacing adjustment */
+        width: 31.33%; /* 100% / 3 - spacing adjustment */
     }
 }
 
