@@ -29,7 +29,7 @@ main {
     color: white;
     padding: 5px 10px;
     position: absolute;
-    top: -5px; /* Adjust based on design */
+    top: -30px; /* Adjust based on design */
     right: 10px;
     transform: translateY(-50%);
     border: 1px solid black;
