@@ -22,8 +22,8 @@ main {
     margin: 5px;
     position: relative;
     background-color: #e0e0e0;
-     flex: 1 1 10%;
-    max-width: 10%;
+     flex: 1 1 30%;
+    max-width: 30%;
     box-sizing: border-box;
 }
 
