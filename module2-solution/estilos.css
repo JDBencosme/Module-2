@@ -51,7 +51,7 @@ main {
 @media (min-width: 992px) {
     .section {
         float: left;
-        width: 31.33%; /* 100% / 3 - spacing adjustment */
+        width: 21.33%; /* 100% / 3 - spacing adjustment */
     }
 }
 
